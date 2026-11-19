@@ -14,8 +14,6 @@ Open Q1/index.html and click the Change Message button.
 
 <img width="956" height="876" alt="Screenshot 2026-11-19 220818" src="https://github.com/user-attachments/assets/f5a4ec37-2354-483b-bdef-30330a49ae4a" />
 
-<img width="953" height="876" alt="Screenshot 2026-11-19 220846" src="https://github.com/user-attachments/assets/85d9ecbc-265d-4457-9926-9230f08e66ae" />
-
 ----------------------------------------------------------------------------------------------------
 # Question 2 – Smart Number Validator
 This webpage allows users to enter a number and checks whether the number is lower than, higher than or equal to 10. It also detects invalid input such as letters, empty input and whitespace-only input.
@@ -24,6 +22,8 @@ This webpage allows users to enter a number and checks whether the number is low
 Open Q2/index.html, enter a number and click Check.
 
 # Screenshot:
+<img width="953" height="876" alt="Screenshot 2026-11-19 220846" src="https://github.com/user-attachments/assets/85d9ecbc-265d-4457-9926-9230f08e66ae" />
+
 <img width="957" height="876" alt="Screenshot 2026-11-19 220903" src="https://github.com/user-attachments/assets/30111ce8-10a9-4823-8838-2ca2ed39edd3" />
 
 <img width="956" height="878" alt="Screenshot 2026-11-19 220920" src="https://github.com/user-attachments/assets/74f74fb2-f86e-48e7-b58e-b0df6cf533a6" />
