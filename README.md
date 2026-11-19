@@ -1,6 +1,7 @@
-# BIC21203 Lab 4a
-# Name: NurulHuda Afiqah Binti ELmy
-# Student ID: CI50050
+BIC21203 Lab 4a
+Name: NurulHuda Afiqah Binti ELmy
+Student ID: CI50050
+
 
 # Question 1 – Interactive Text Changer
 This webpage changes a paragraph message when the user clicks the "Change Message" button.
