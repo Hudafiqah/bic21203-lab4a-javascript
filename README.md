@@ -1,13 +1,12 @@
-# bic21203-lab4a-javascript
-BIC21203 Lab 4a
-
-# Name: Your Name
-# Student ID: Your Student ID
+# BIC21203 Lab 4a
+# Name: NurulHuda Afiqah Binti ELmy
+# Student ID: CI50050
 
 # Question 1 – Interactive Text Changer
 This webpage changes a paragraph message when the user clicks the "Change Message" button.
 
-# How to run: Open Q1/index.html and click the Change Message button.
+# How to run: 
+Open Q1/index.html and click the Change Message button.
 
 # Screenshot:
 <img width="952" height="875" alt="Screenshot 2026-11-19 220802" src="https://github.com/user-attachments/assets/1b58770a-afeb-4267-8a73-ff5cbb51f6cf" />
@@ -20,7 +19,8 @@ This webpage changes a paragraph message when the user clicks the "Change Messag
 # Question 2 – Smart Number Validator
 This webpage allows users to enter a number and checks whether the number is lower than, higher than or equal to 10. It also detects invalid input such as letters, empty input and whitespace-only input.
 
-# How to run: Open Q2/index.html, enter a number and click Check.
+# How to run: 
+Open Q2/index.html, enter a number and click Check.
 
 # Screenshot:
 <img width="957" height="876" alt="Screenshot 2026-11-19 220903" src="https://github.com/user-attachments/assets/30111ce8-10a9-4823-8838-2ca2ed39edd3" />
@@ -37,7 +37,8 @@ This webpage allows users to enter a number and checks whether the number is low
 # Question 3 – Dynamic Number Generator
 This webpage generates a numbered list from 1 to 5 when the user clicks the "Generate" button. A JavaScript for loop is used to create five list items dynamically.
 
-# How to run: Open Q3/index.html and click Generate.
+# How to run: 
+Open Q3/index.html and click Generate.
 
 # Screenshot:
 <img width="956" height="878" alt="Screenshot 2026-11-19 221030" src="https://github.com/user-attachments/assets/9c757e25-d4df-4831-8413-3223122f61c0" />
