@@ -14,7 +14,7 @@ Open Q1/index.html and click the Change Message button.
 
 <img width="956" height="876" alt="Screenshot 2026-11-19 220818" src="https://github.com/user-attachments/assets/f5a4ec37-2354-483b-bdef-30330a49ae4a" />
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 # Question 2 – Smart Number Validator
 This webpage allows users to enter a number and checks whether the number is lower than, higher than or equal to 10. It also detects invalid input such as letters, empty input and whitespace-only input.
 
@@ -34,7 +34,7 @@ Open Q2/index.html, enter a number and click Check.
 
 <img width="956" height="878" alt="Screenshot 2026-11-19 221030" src="https://github.com/user-attachments/assets/d22fdc2b-a4a1-4e57-a1b5-138c1f6e0c58" />
 
-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 # Question 3 – Dynamic Number Generator
 This webpage generates a numbered list from 1 to 5 when the user clicks the "Generate" button. A JavaScript for loop is used to create five list items dynamically.
 
@@ -46,3 +46,6 @@ Open Q3/index.html and click Generate.
 
 <img width="953" height="873" alt="Screenshot 2026-11-19 221058" src="https://github.com/user-attachments/assets/249f5c36-a739-42dd-8b6f-2dab7428651d" />
 
+------------------------------------------------------------------------------------------------
+# GitHub Repository
+https://github.com/Hudafiqah/bic21203-lab4a-javascript
