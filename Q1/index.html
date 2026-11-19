@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Interactive Text Changer</title>
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            display: flex;
+            min-height: 100vh;
+            margin: 0;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+            background: #667eea;
+            color: #1e293b;
+        }
+        .card {
+            background: #fff;
+            padding: 2rem;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+        h1 { font-size: 1.5rem; }
+        #message { font-size: 1.2rem; margin: 1rem 0; }
+        #changeBtn {
+            font: inherit;
+            color: #fff;
+            background: #6d28d9;
+            border: none;
+            padding: 0.7rem 1.5rem;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #changeBtn:hover { background: #7c3aed; }
+    </style>
+</head>
+<body>
+    <main class="card">
+        <h1>Interactive Text Changer</h1>
+        <div id="myElement">
+            <p id="message">Welcome to my website!</p>
+        </div>
+        <button id="changeBtn" type="button">Change Message</button>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
