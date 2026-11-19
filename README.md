@@ -42,7 +42,7 @@ This webpage generates a numbered list from 1 to 5 when the user clicks the "Gen
 Open Q3/index.html and click Generate.
 
 # Screenshot:
-<img width="956" height="878" alt="Screenshot 2026-11-19 221030" src="https://github.com/user-attachments/assets/9c757e25-d4df-4831-8413-3223122f61c0" />
+<img width="955" height="877" alt="Screenshot 2026-11-19 221048" src="https://github.com/user-attachments/assets/451d5994-6fe5-4aeb-861c-b39929748e4a" />
 
 <img width="953" height="873" alt="Screenshot 2026-11-19 221058" src="https://github.com/user-attachments/assets/249f5c36-a739-42dd-8b6f-2dab7428651d" />
 
